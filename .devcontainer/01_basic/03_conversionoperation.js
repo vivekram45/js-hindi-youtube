@@ -23,3 +23,4 @@ let fewnumber = 5
 let stringNumber = String(fewnumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
